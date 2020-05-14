@@ -26,7 +26,7 @@
          targetProject="demo.biz/src/main/java" type="XMLMAPPER"/>
 
 
-        <table schema="cif" tableName="cif_ent_user"
+        <table schema="cif_test" tableName="cif_ent_user"
                domainObjectName="CifEntUser" enableCountByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                enableUpdateByExample="false">
